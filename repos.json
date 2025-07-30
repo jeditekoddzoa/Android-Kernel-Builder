@@ -27,5 +27,14 @@
       "AR": "",
       "CC": "clang"
     }
+    "fg6q_qv1030": {
+  "repo": "https://github.com/FG6Q-Dev/android_kernel_quanta_fg6q",
+  "branch": "master",
+  "defconfig": "fg6q_defconfig",
+  "toolchain": "aosp-clang",
+  "arch": "arm",
+  "dtb": false
+    }
+
   }
 ]
